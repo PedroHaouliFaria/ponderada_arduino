@@ -3,8 +3,8 @@
 
  Após instalar o Arduino IDE no meu computador. Realizei o "blink" com o LED Interno, as imagens estão na pasta assets, mas você também pode visualizar por aqui: 
 
- <img src='../assets/arduino_off.jpg'>
- <img src='../assets/arduino_on.jpg'>
+ <img src='/assets/arduino_off.jpg'>
+ <img src='/assets/arduino_on.jpg'>
 
 Além dessas imagens, coloquei também um vídeo de demonstração:
 
